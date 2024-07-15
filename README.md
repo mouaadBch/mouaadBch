@@ -26,7 +26,14 @@
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />&nbsp;&nbsp;
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />&nbsp;&nbsp;
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;&nbsp;
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />&nbsp;&nbsp;
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+
+
+
 </div>
+
+
 
 <br />
 
@@ -41,6 +48,9 @@ I am currently pursuing a master's degree in "Modélisation Mathématique et Sci
 </a>
 <a href="https://www.linkedin.com/in/mouaadbellouche">
 <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.grepper.com/profile/mouaad-bellouche">
+<img height="25" src="https://img.shields.io/badge/Grepper-3D3D3D?style=for-the-badge&logo=grepper&logoColor=white">
 </a>
 
 <br />
